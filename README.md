@@ -3,9 +3,10 @@
 I’m a developer who enjoys building clean, purposeful software and exploring new technologies.  
 My work focuses on solving real problems with thoughtful design and maintainable code.
 I also love working on game projects or even projects that do nothing real special.
+I am currently studying at IT-Högskolan, (a vocational university) where my "major" is Java developer.
 
 ## Tech I work with
-- **Languages:** JavaScript, TypeScript, Python, C#, HTML/CSS, PHP
+- **Languages:** JavaScript, TypeScript, Python, C#, HTML/CSS, PHP, Java
 - **Tools:** Git, VS Code, Visual Studio, Unity
 - **Interests:** automation, backend architecture, cloud services, gaming, and experimenting with new frameworks
 
